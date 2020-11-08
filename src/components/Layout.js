@@ -16,7 +16,7 @@ class Layout extends Component {
   componentDidMount() {
     setTimeout(() => {
       this.setState({ isPreloaded: false })
-    }, 300)
+    }, 200)
   }
 
   render() {
@@ -37,6 +37,7 @@ class Layout extends Component {
           <>
             <Helmet
               title={data.site.siteMetadata.title}
+              defer={false}
               meta={[
                 { name: 'description', content: 'Ursa Kacar' },
                 {
