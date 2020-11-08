@@ -48,6 +48,7 @@ class Layout extends Component {
             >
               <html lang="en" />
             </Helmet>
+            <div id="background"></div>
             <div className={isPreloaded ? 'main-body is-preload' : 'main-body'}>
               <div id="wrapper">{children}</div>
             </div>

@@ -12,7 +12,7 @@
   @include vendor('justify-content', 'space-between');
   @include vendor('flex-direction', 'column');
   @include vendor('perspective', '1000px');
-  position: relative;
+  //position: relative;
   min-height: 100%;
   padding: _size(element-margin);
   z-index: 2;

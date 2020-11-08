@@ -50,7 +50,7 @@ module.exports = {
 
   socialLinksBlebet: [
     {
-      icon: 'fa-twitter',
+      icon: 'fa-globe',
       name: 'Twitter',
       url: 'https://blebet.si',
     },
