@@ -4,7 +4,7 @@ module.exports = {
   manifestIcon: 'src/assets/favicon.png',
   authorName: 'Ursa Kacar',
   headingQa: 'curious QA engineer',
-  headingBlebet: 'messy writer',
+  headingBlebet: 'occasionally a writer',
   headingRujsa: 'mediocre clay enthusiast',
 
   socialLinksPersonal: [
