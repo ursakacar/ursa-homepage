@@ -39,11 +39,10 @@ class Layout extends Component {
               title={data.site.siteMetadata.title}
               defer={false}
               meta={[
-                { name: 'description', content: 'Ursa Kacar' },
+                { name: 'description', content: 'Ursa Kacar; curious QA engineer & messy writer & mediocre clay enthusiast' },
                 {
                   name: 'keywords',
-                  content:
-                    'ursa kacar mainpage qa engineer tester blebet rujsa',
+                  content: 'ursa kacar mainpage qa engineer tester blebet rujsa',
                 },
               ]}
             >
