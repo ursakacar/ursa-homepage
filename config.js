@@ -21,7 +21,7 @@ module.exports = {
     {
       icon: 'fa-envelope-o',
       name: 'Email',
-      url: 'mailto:kacar.ursa@gmail.com',
+      url: 'mailto:hello@ursakacar.com',
     },
   ],
 
