@@ -42,7 +42,7 @@ class Layout extends Component {
                 { name: 'description', content: 'Ursa Kacar; curious QA engineer; occasionally a writer; mediocre clay enthusiast' },
                 {
                   name: 'keywords',
-                  content: 'ursa kacar mainpage qa engineer tester writer clay blebet rujsa',
+                  content: 'ursa kacar ursakacar mainpage qa engineer tester writer clay blebet rujsa',
                 },
               ]}
             >
