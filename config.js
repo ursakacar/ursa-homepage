@@ -23,6 +23,11 @@ module.exports = {
       name: 'Email',
       url: 'mailto:hello@ursakacar.com',
     },
+    {
+      icon: 'fa-youtube',
+      name: 'Email',
+      url: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+    },
   ],
 
   socialLinksQA: [
