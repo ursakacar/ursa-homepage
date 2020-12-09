@@ -80,7 +80,7 @@ module.exports = {
     {
       icon: 'fa-facebook',
       name: 'Facebook',
-      url: 'https://www.facebook.com/ruj%C5%A1a-100225618531478',
+      url: 'https://www.facebook.com/rujsa.art',
     },
     {
       icon: 'fa-instagram',
