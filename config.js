@@ -23,11 +23,6 @@ module.exports = {
       name: 'Email',
       url: 'mailto:hello@ursakacar.com',
     },
-    {
-      icon: 'fa-youtube',
-      name: 'Email',
-      url: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
-    },
   ],
 
   socialLinksQA: [
@@ -42,11 +37,6 @@ module.exports = {
       url: 'https://gitlab.com/ursakacar',
     },
     {
-      icon: 'fa-twitter',
-      name: 'Twitter',
-      url: 'https://twitter.com/absyan',
-    },
-    {
       icon: 'fa-linkedin',
       name: 'Linkedin',
       url: 'https://www.linkedin.com/in/ursakacar/',
@@ -56,7 +46,7 @@ module.exports = {
   socialLinksBlebet: [
     {
       icon: 'fa-globe',
-      name: 'Twitter',
+      name: 'Page',
       url: 'https://blebet.si',
     },
     {
@@ -68,11 +58,6 @@ module.exports = {
       icon: 'fa-instagram',
       name: 'Instagram',
       url: 'https://www.instagram.com/blebetalka/',
-    },
-    {
-      icon: 'fa-envelope-o',
-      name: 'Email',
-      url: 'mailto:ursa@blebet.si',
     },
   ],
 
