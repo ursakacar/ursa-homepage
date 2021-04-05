@@ -5,7 +5,7 @@ module.exports = {
   authorName: 'Ursa Kacar',
   headingQa: 'curious QA engineer',
   headingBlebet: 'occasionally a writer',
-  headingRujsa: 'mediocre clay enthusiast',
+  headingRujsa: 'amateur clay enthusiast',
 
   socialLinksPersonal: [
     {
@@ -62,6 +62,11 @@ module.exports = {
   ],
 
   socialLinksRujsa: [
+    {
+      icon: 'fa-globe',
+      name: 'Page',
+      url: 'https://rujsa.com',
+    },
     {
       icon: 'fa-facebook',
       name: 'Facebook',
