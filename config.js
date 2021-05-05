@@ -2,7 +2,7 @@ module.exports = {
   siteTitle: 'Ursa Kacar',
   manifestStartUrl: '/',
   manifestIcon: 'src/assets/favicon.png',
-  authorName: 'Ursa Kacar',
+  authorName: 'Urša Kačar',
   headingQa: 'curious QA engineer',
   headingBlebet: 'occasionally a writer',
   headingRujsa: 'amateur clay enthusiast',
